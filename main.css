@@ -47,7 +47,8 @@ header {
 img {
     height: 100px;
     justify-self: center;
-    width: fit-content;
+    /*width: fit-content;*/
+    width: auto;
     margin: auto;
     border-radius: 10px;
     box-shadow: 0 0 5px white;
